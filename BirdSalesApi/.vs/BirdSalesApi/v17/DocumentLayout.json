@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\dot net core project\\Bird_Sale\\BirdSalesApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65E5889F-5EBD-4E04-93DC-6F79E3CCFB2A}|..\\BirdSalesWeb\\BirdSalesWeb.csproj|e:\\dot net core project\\bird_sale\\birdsalesweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7B2D025-10B9-4D02-BDB8-8506AF0468D5}|BirdSalesApi\\BirdSalesApi.csproj|e:\\dot net core project\\bird_sale\\birdsalesapi\\birdsalesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7B2D025-10B9-4D02-BDB8-8506AF0468D5}|BirdSalesApi\\BirdSalesApi.csproj|solutionrelative:birdsalesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E5889F-5EBD-4E04-93DC-6F79E3CCFB2A}|..\\BirdSalesWeb\\BirdSalesWeb.csproj|e:\\dot net core project\\bird_sale\\birdsalesweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E5889F-5EBD-4E04-93DC-6F79E3CCFB2A}|..\\BirdSalesWeb\\BirdSalesWeb.csproj|e:\\dot net core project\\bird_sale\\birdsalesweb\\controllers\\birdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65E5889F-5EBD-4E04-93DC-6F79E3CCFB2A}|..\\BirdSalesWeb\\BirdSalesWeb.csproj|e:\\dot net core project\\bird_sale\\birdsalesweb\\controllers\\websitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7B2D025-10B9-4D02-BDB8-8506AF0468D5}|BirdSalesApi\\BirdSalesApi.csproj|e:\\dot net core project\\bird_sale\\birdsalesapi\\birdsalesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B2D025-10B9-4D02-BDB8-8506AF0468D5}|BirdSalesApi\\BirdSalesApi.csproj|solutionrelative:birdsalesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E5889F-5EBD-4E04-93DC-6F79E3CCFB2A}|..\\BirdSalesWeb\\BirdSalesWeb.csproj|e:\\dot net core project\\bird_sale\\birdsalesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -25,8 +21,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\dot net core project\\Bird_Sale\\BirdSalesApi\\BirdSalesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BirdSalesApi\\appsettings.json",
+              "ToolTip": "E:\\dot net core project\\Bird_Sale\\BirdSalesApi\\BirdSalesApi\\appsettings.json",
+              "RelativeToolTip": "BirdSalesApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T18:34:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dot net core project\\Bird_Sale\\BirdSalesApi\\BirdSalesApi\\Program.cs",
+              "RelativeDocumentMoniker": "BirdSalesApi\\Program.cs",
+              "ToolTip": "E:\\dot net core project\\Bird_Sale\\BirdSalesApi\\BirdSalesApi\\Program.cs",
+              "RelativeToolTip": "BirdSalesApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:31:35.76Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -37,59 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "..\\BirdSalesWeb\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "..\\BirdSalesWeb\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T18:17:43.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebsiteController.cs",
-              "DocumentMoniker": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Controllers\\WebsiteController.cs",
-              "RelativeDocumentMoniker": "..\\BirdSalesWeb\\Controllers\\WebsiteController.cs",
-              "ToolTip": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Controllers\\WebsiteController.cs",
-              "RelativeToolTip": "..\\BirdSalesWeb\\Controllers\\WebsiteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:16:38.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BirdController.cs",
-              "DocumentMoniker": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Controllers\\BirdController.cs",
-              "RelativeDocumentMoniker": "..\\BirdSalesWeb\\Controllers\\BirdController.cs",
-              "ToolTip": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Controllers\\BirdController.cs",
-              "RelativeToolTip": "..\\BirdSalesWeb\\Controllers\\BirdController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:16:27.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "..\\BirdSalesWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "..\\BirdSalesWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:15:23.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\Program.cs",
               "RelativeDocumentMoniker": "..\\BirdSalesWeb\\Program.cs",
