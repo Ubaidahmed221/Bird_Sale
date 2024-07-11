@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cWLGPTT4I6JZFrDqbbTZeNEjbwjwZWiMkoqO70EP3JI=",
+  "Hash": "Z/69YQUHxJqB5JNFvTGI40bLAENsW5ICVf06FpdXkis=",
   "Source": "BirdSalesWeb",
   "BasePath": "_content/BirdSalesWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BirdSalesWeb\\wwwroot",
       "Source": "BirdSalesWeb",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BirdSalesWeb.styles.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BirdSalesWeb.styles.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "BirdSalesWeb.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BirdSalesWeb.styles.css"
+      "OriginalItemSpec": "D:\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BirdSalesWeb.styles.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BirdSalesWeb.bundle.scp.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BirdSalesWeb.bundle.scp.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "BirdSalesWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BirdSalesWeb.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Bird_Sale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BirdSalesWeb.bundle.scp.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\layers.html",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\layers.html",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/css/images/layers.html",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\layers.html"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\layers-2x.html",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\layers-2x.html",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/css/images/layers-2x.html",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\layers-2x.html"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\marker-icon.html",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\marker-icon.html",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/css/images/marker-icon.html",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\images\\marker-icon.html"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\nucleo-icons.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/css/nucleo-icons.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nucleo-icons.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\nucleo-svg.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/css/nucleo-svg.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nucleo-svg.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\soft-ui-dashboard.min9f1e.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\css\\soft-ui-dashboard.min9f1e.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/css/soft-ui-dashboard.min9f1e.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\soft-ui-dashboard.min9f1e.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\apple-icon.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\apple-icon.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/apple-icon.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-icon.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\bg-smart-home-1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\bg-smart-home-1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/bg-smart-home-1.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg-smart-home-1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\bg-smart-home-2.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\bg-smart-home-2.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/bg-smart-home-2.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg-smart-home-2.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/curved-images/curved1.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\curved-images\\curved1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/curved-images/curved10.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\curved-images\\curved10.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/curved-images/white-curved.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\curved-images\\white-curved.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\favicon.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\favicon.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/favicon.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\home-decor-3.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/home-decor-3.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\home-decor-3.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/icons/flags/BR.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\flags\\BR.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/icons/flags/DE.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\flags\\DE.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/icons/flags/GB.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\flags\\GB.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\US.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\US.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/icons/flags/US.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\flags\\US.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\ivancik.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\ivancik.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/ivancik.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\ivancik.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/kal-visuals-square.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\kal-visuals-square.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\logo-ct-dark.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/logo-ct-dark.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo-ct-dark.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\mercedes-eqc.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\mercedes-eqc.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/mercedes-eqc.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\mercedes-eqc.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/small-logos/icon-sun-cloud.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/team-1.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-2.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-2.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/team-2.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-2.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-3.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-3.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/team-3.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-3.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-4.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-4.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/team-4.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team-4.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\img\\vr-bg.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/img/vr-bg.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vr-bg.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/core/bootstrap.min.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\core\\popper.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/core/popper.min.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\core\\popper.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/chartjs.min.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\choices.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\choices.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/choices.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\choices.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\countup.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\countup.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/countup.min.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\countup.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\dragula\\dragula.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\dragula\\dragula.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/dragula/dragula.min.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\dragula\\dragula.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\fullcalendar.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\fullcalendar.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/fullcalendar.min.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\fullcalendar.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\jkanban\\jkanban.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\jkanban\\jkanban.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/jkanban/jkanban.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\jkanban\\jkanban.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\leaflet.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\leaflet.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/leaflet.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\leaflet.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\nouislider.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\nouislider.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/nouislider.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\nouislider.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\orbit-controls.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\orbit-controls.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/orbit-controls.js",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\orbit-controls.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/perfect-scrollbar.min.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\round-slider.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\round-slider.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/round-slider.min.js",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\round-slider.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/smooth-scrollbar.min.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\threejs.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\threejs.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/plugins/threejs.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\plugins\\threejs.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\soft-ui-dashboard.min9f1e.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\assets\\js\\soft-ui-dashboard.min9f1e.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "assets/js/soft-ui-dashboard.min9f1e.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\soft-ui-dashboard.min9f1e.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\css\\site.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\favicon.ico",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\js\\site.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\bootstrap.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\bootstrap.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\glightbox.min.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\glightbox.min.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/css/glightbox.min.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\css\\glightbox.min.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\LineIcons.3.0.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\LineIcons.3.0.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/css/LineIcons.3.0.css",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\css\\LineIcons.3.0.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\main.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\main.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/css/main.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\css\\main.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\tiny-slider.css",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\tiny-slider.css",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/css/tiny-slider.css",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\css\\tiny-slider.css"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.eot",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.eot",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/fonts/LineIcons.eot",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\fonts\\LineIcons.eot"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.svg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.svg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/fonts/LineIcons.svg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\fonts\\LineIcons.svg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.ttf",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.ttf",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/fonts/LineIcons.ttf",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\fonts\\LineIcons.ttf"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.woff",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.woff",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/fonts/LineIcons.woff",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\fonts\\LineIcons.woff"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.woff2",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.woff2",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/fonts/LineIcons.woff2",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\fonts\\LineIcons.woff2"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\about\\about1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\about\\about1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/about/about1.jpg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\about\\about1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\about\\about-img.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\about\\about-img.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/about/about-img.jpg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\about\\about-img.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/banner/banner.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\banner\\banner.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-1-bg.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-1-bg.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/banner/banner-1-bg.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\banner\\banner-1-bg.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-2-bg.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-2-bg.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/banner/banner-2-bg.jpg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\banner\\banner-2-bg.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-3-bg.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-3-bg.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/banner/banner-3-bg.jpg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\banner\\banner-3-bg.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\blog-1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-2.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-2.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\blog-2.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-3.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-3.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\blog-3.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/blog-sidebar-1.jpg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-2.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-2.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/blog-sidebar-2.jpg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-2.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-3.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-3.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/blog-sidebar-3.jpg",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-3.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-single.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-single.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/blog-single.jpg",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\blog-single.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/comment1.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\comment1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment2.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment2.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/comment2.jpg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\comment2.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment3.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment3.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/blog/comment3.jpg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\blog\\comment3.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\01.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\01.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/brands/01.png",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\brands\\01.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\02.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\02.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/brands/02.png",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\brands\\02.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\03.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\03.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/brands/03.png",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\brands\\03.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\04.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\04.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/brands/04.png",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\brands\\04.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\05.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\05.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/brands/05.png",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\brands\\05.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\06.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\06.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/brands/06.png",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\brands\\06.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\01.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\01.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/cart/01.jpg",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\cart\\01.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\02.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\02.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/cart/02.jpg",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\cart\\02.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\03.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\03.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/cart/03.jpg",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\cart\\03.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\error\\404-bg.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\error\\404-bg.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/error/404-bg.png",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\error\\404-bg.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\favicon.svg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\favicon.svg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/favicon.svg",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\favicon.svg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-1.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-1.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/featured-categories/fetured-item-1.png",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-1.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-2.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-2.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/featured-categories/fetured-item-2.png",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-2.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-3.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-3.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/featured-categories/fetured-item-3.png",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-3.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-4.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-4.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/featured-categories/fetured-item-4.png",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-4.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-5.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-5.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/featured-categories/fetured-item-5.png",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-5.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-6.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-6.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/featured-categories/fetured-item-6.png",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-6.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\footer\\credit-cards-footer.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\footer\\credit-cards-footer.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/footer/credit-cards-footer.png",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\footer\\credit-cards-footer.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\header\\cart-items\\item1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\header\\cart-items\\item1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/header/cart-items/item1.jpg",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\header\\cart-items\\item1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\header\\cart-items\\item2.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\header\\cart-items\\item2.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/header/cart-items/item2.jpg",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\header\\cart-items\\item2.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bg1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bg1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/hero/slider-bg1.jpg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\hero\\slider-bg1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bg2.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bg2.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/hero/slider-bg2.jpg",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\hero\\slider-bg2.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bnr.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bnr.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/hero/slider-bnr.jpg",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\hero\\slider-bnr.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\small-banner-bg.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\small-banner-bg.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/hero/small-banner-bg.png",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\hero\\small-banner-bg.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\01.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\01.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/01.jpg",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\01.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\02.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\02.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/02.jpg",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\02.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\03.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\03.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/03.jpg",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\03.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\04.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\04.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/04.jpg",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\04.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\05.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\05.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/05.jpg",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\05.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\06.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\06.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/06.jpg",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\06.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\07.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\07.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/07.jpg",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\07.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\08.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\08.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/08.jpg",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\08.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\09.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\09.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/home-product-list/09.jpg",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\home-product-list\\09.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\logo\\logo.svg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\logo\\logo.svg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/logo/logo.svg",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\logo\\logo.svg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\logo\\white-logo.svg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\logo\\white-logo.svg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/logo/white-logo.svg",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\logo\\white-logo.svg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\offer\\offer-image.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\offer\\offer-image.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/offer/offer-image.jpg",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\offer\\offer-image.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\payment\\card.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\payment\\card.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/payment/card.png",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\payment\\card.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\01.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\01.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/product-details/01.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\product-details\\01.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\02.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\02.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/product-details/02.jpg",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\product-details\\02.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\03.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\03.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/product-details/03.jpg",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\product-details\\03.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\04.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\04.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/product-details/04.jpg",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\product-details\\04.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\05.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\05.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/product-details/05.jpg",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\product-details\\05.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-1.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-1.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/products/product-1.jpg",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\products\\product-1.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-2.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-2.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/products/product-2.jpg",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\products\\product-2.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-3.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-3.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/products/product-3.jpg",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\products\\product-3.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-4.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-4.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/products/product-4.jpg",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\products\\product-4.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-5.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-5.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/products/product-5.jpg",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\products\\product-5.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-6.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-6.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/products/product-6.jpg",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\products\\product-6.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-7.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-7.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/products/product-7.jpg",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\products\\product-7.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-8.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-8.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/products/product-8.jpg",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\products\\product-8.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-1.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-1.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/shipping/shipping-1.png",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\shipping\\shipping-1.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-2.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-2.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/shipping/shipping-2.png",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\shipping\\shipping-2.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-3.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-3.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/shipping/shipping-3.png",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\shipping\\shipping-3.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-4.png",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-4.png",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/shipping/shipping-4.png",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\shipping\\shipping-4.png"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\01.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\01.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/team/01.jpg",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\team\\01.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\02.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\02.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/team/02.jpg",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\team\\02.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\03.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\03.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/team/03.jpg",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\team\\03.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\04.jpg",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\04.jpg",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/images/team/04.jpg",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\images\\team\\04.jpg"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\bootstrap.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\bootstrap.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\glightbox.min.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\glightbox.min.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/js/glightbox.min.js",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\js\\glightbox.min.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\main.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\main.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/js/main.js",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\Website\\assets\\js\\main.js"
     },
     {
-      "Identity": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\tiny-slider.js",
+      "Identity": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\tiny-slider.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dot net core project\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "Website/assets/js/tiny-slider.js",
       "AssetKind": "All",
