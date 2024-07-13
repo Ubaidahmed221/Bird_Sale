@@ -1,0 +1,6 @@
+@BirdSalesAPI_HostAddress = http://localhost:5154
+
+GET {{BirdSalesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
