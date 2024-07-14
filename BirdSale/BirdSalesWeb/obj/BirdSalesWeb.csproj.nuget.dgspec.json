@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dot net core project\\Bird_Sale\\BirdSale\\BirdSalesWeb\\BirdSalesWeb.csproj": {}
+    "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\BirdSalesWeb.csproj": {}
   },
   "projects": {
-    "E:\\dot net core project\\Bird_Sale\\BirdSale\\BirdSalesWeb\\BirdSalesWeb.csproj": {
+    "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\BirdSalesWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dot net core project\\Bird_Sale\\BirdSale\\BirdSalesWeb\\BirdSalesWeb.csproj",
+        "projectUniqueName": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\BirdSalesWeb.csproj",
         "projectName": "BirdSalesWeb",
-        "projectPath": "E:\\dot net core project\\Bird_Sale\\BirdSale\\BirdSalesWeb\\BirdSalesWeb.csproj",
-        "packagesPath": "C:\\Users\\icon\\.nuget\\packages\\",
-        "outputPath": "E:\\dot net core project\\Bird_Sale\\BirdSale\\BirdSalesWeb\\obj\\",
+        "projectPath": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\BirdSalesWeb.csproj",
+        "packagesPath": "C:\\Users\\mustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\icon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
