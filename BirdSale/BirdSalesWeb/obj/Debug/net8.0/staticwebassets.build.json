@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CmUfofEejP9rQyC4Nqy8NJmboA0QQ+GzjlnajrCf/LE=",
+  "Hash": "FtUvBhI+YtzpjGXswGJ9NrrGYSBIvel3S7q6t59WEWQ=",
   "Source": "BirdSalesWeb",
   "BasePath": "_content/BirdSalesWeb",
   "Mode": "Default",
@@ -2029,6 +2029,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
+      "SourceId": "BirdSalesWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\",
+      "BasePath": "_content/BirdSalesWeb",
+      "RelativePath": "ProjectFiles/Bird/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProjectFiles\\Bird\\index.js"
     },
     {
       "Identity": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",

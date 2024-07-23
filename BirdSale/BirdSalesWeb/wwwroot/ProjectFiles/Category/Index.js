@@ -26,9 +26,7 @@ function LoadData() {
 
                 `);
             }
-             
-
-        },
+          },
         Error: function () {
             alert("Errpr");
         }
