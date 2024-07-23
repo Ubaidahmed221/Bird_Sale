@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BirdSalesWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f58a3afe5842b86bf5cd5feef46496b0fc83e0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f566acabd521e4d9ce810a81e276fdeb73f7996")]
 [assembly: System.Reflection.AssemblyProductAttribute("BirdSalesWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BirdSalesWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

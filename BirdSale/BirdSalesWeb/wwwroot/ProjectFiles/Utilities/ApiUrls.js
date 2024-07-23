@@ -3,5 +3,5 @@
 let ApiUrls = {
 
     //Category
-    Category_GetCategorys: main_api + 'Category/GetCategory',
+    Category_GetCategorys: main_api + '/Category/GetCategory',
 }
