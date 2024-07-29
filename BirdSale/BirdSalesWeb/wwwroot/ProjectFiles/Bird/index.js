@@ -18,14 +18,14 @@ function LoadData() {
                 <td>${item.Species}</td>
                 <td>${item.Age}</td>
                 <td>${item.Price}</td>
-                <td>${item.}</td>
                 <td>${item.Description}</td>
                 <td>${item.ImageURL}</td>
+                <td>${item.FKCategoryId}</td>
                 </tr>
                 `);
             }
 
-        }
+        },
 
 
         Error: function () {
