@@ -6,4 +6,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\ProjectFiles\Category\Create.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\ProjectFiles\Category\Create.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\ProjectFiles\Category\Create.js" />
+  </ItemGroup>
+
 </Project>

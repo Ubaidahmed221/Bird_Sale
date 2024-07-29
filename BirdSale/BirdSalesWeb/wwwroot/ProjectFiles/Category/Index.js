@@ -16,12 +16,11 @@ function LoadData() {
             console.log(data);
             for (var item of data.Response) {
                 $('#MyTable tbody').append(`
-                
                     <tr>
                     <td>${item.PkId}</td>
                     <td>${item.Name}</td>
                     <td>${item.Description}</td>
-                    <td>
+             
                     </tr>
 
                 `);
