@@ -1,14 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Bird_Sale\\BirdSale\\",
+  "WorkspaceRootPath": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAA9305B-02A2-4558-873B-3229047F781F}|BirdSalesWeb\\BirdSalesWeb.csproj|d:\\bird_sale\\birdsale\\birdsalesweb\\wwwroot\\projectfiles\\bird\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BAA9305B-02A2-4558-873B-3229047F781F}|BirdSalesWeb\\BirdSalesWeb.csproj|solutionrelative:birdsalesweb\\wwwroot\\projectfiles\\bird\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mustafa\\AppData\\Local\\SourceServer\\045e24ea76bc532e93aa77fdb6c391190647167dd1ebb42e2e9aa98a449df32f\\BirdSale\\BirdSalesWeb\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAA9305B-02A2-4558-873B-3229047F781F}|BirdSalesWeb\\BirdSalesWeb.csproj|d:\\bird_sale\\birdsale\\birdsalesweb\\wwwroot\\projectfiles\\category\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BAA9305B-02A2-4558-873B-3229047F781F}|BirdSalesWeb\\BirdSalesWeb.csproj|solutionrelative:birdsalesweb\\wwwroot\\projectfiles\\category\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{BAA9305B-02A2-4558-873B-3229047F781F}|BirdSalesWeb\\BirdSalesWeb.csproj|c:\\users\\mustafa\\documents\\github\\bird_sale\\birdsale\\birdsalesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA9305B-02A2-4558-873B-3229047F781F}|BirdSalesWeb\\BirdSalesWeb.csproj|solutionrelative:birdsalesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +17,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.js",
-              "DocumentMoniker": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
-              "RelativeDocumentMoniker": "BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
-              "ToolTip": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
-              "RelativeToolTip": "BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-23T19:18:13.172Z",
-              "EditorCaption": ""
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\AppData\\Local\\SourceServer\\045e24ea76bc532e93aa77fdb6c391190647167dd1ebb42e2e9aa98a449df32f\\BirdSale\\BirdSalesWeb\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\045e24ea76bc532e93aa77fdb6c391190647167dd1ebb42e2e9aa98a449df32f\\BirdSale\\BirdSalesWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\mustafa\\AppData\\Local\\SourceServer\\045e24ea76bc532e93aa77fdb6c391190647167dd1ebb42e2e9aa98a449df32f\\BirdSale\\BirdSalesWeb\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\045e24ea76bc532e93aa77fdb6c391190647167dd1ebb42e2e9aa98a449df32f\\BirdSale\\BirdSalesWeb\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:05:38.264Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.js",
-              "DocumentMoniker": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
-              "RelativeDocumentMoniker": "BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
-              "ToolTip": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
-              "RelativeToolTip": "BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-14T19:29:35.834Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BirdSalesWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\Program.cs",
+              "RelativeToolTip": "BirdSalesWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:05:30.008Z",
               "EditorCaption": ""
             }
           ]

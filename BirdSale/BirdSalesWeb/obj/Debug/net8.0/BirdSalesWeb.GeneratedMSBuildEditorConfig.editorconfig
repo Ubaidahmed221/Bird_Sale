@@ -9,79 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BirdSalesWeb
 build_property.RootNamespace = BirdSalesWeb
-build_property.ProjectDir = D:\Bird_Sale\BirdSale\BirdSalesWeb\
+build_property.ProjectDir = C:\Users\mustafa\Documents\GitHub\Bird_Sale\BirdSale\BirdSalesWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Bird_Sale\BirdSale\BirdSalesWeb
+build_property.MSBuildProjectDirectory = C:\Users\mustafa\Documents\GitHub\Bird_Sale\BirdSale\BirdSalesWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Bird/AddBird.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Bird/AddBird.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlyZFxBZGRCaXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Bird/Index.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Bird/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Category/Add.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Category/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Category/Index.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Home/Index.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Home/Privacy.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Shared/Error.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Shared/WebsiteLayout.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Shared/WebsiteLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFdlYnNpdGVMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/About.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/Blog.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxCbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/Contact.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/Faqus.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/Faqus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxGYXF1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/Index.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Website/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vic2l0ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/_ViewImports.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/_ViewStart.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/mustafa/Documents/GitHub/Bird_Sale/BirdSale/BirdSalesWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yjyv4dzri7
