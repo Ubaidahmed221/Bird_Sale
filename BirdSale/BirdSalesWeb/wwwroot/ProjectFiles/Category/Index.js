@@ -11,15 +11,17 @@ function LoadData() {
         type: 'Get',
        
         success: function (response) {
-            console.log(response);
             var data = JSON.parse(response);
-            console.log(data);
             for (var item of data.Response) {
                 $('#MyTable tbody').append(`
                     <tr>
                     <td>${item.PkId}</td>
                     <td>${item.Name}</td>
                     <td>${item.Description}</td>
+                    <td>
+                     <input hidden value="${item.PkId}"/>
+                     <button class="btn btn-danger btn-sm BtnDelete">Delete</button>
+                    </td>    
              
                     </tr>
 
@@ -27,9 +29,32 @@ function LoadData() {
             }
           },
         Error: function () {
-            alert("Errpr");
+            alert("Error");
         }
        
 
     });
 }
+
+
+
+$("body").on("click", ".BtnDelete", function () {
+    let id = $(this).prev().val();
+    console.log(id);
+    $.ajax({
+        url: 'http://localhost:5154/Api/Category/DeleteCategory' + '/' + id,
+        type: 'GET',
+        data: id,
+        Success: function () {
+            console.log("seccess");
+        },
+        Error: function () {
+            console.log("Error");
+        }
+
+
+    });
+});
+
+
+

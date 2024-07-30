@@ -5,15 +5,11 @@
       "PackagePath": "staticwebassets\\BirdSalesWeb.bundle.scp.css"
     },
     {
-<<<<<<< Updated upstream
-      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
+      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
       "PackagePath": "staticwebassets\\ProjectFiles\\Bird\\index.js"
     },
     {
-      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
-=======
       "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
->>>>>>> Stashed changes
       "PackagePath": "staticwebassets\\ProjectFiles\\Category\\Index.js"
     },
     {

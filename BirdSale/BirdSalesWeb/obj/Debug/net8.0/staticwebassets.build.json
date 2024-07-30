@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
-  "Hash": "FtUvBhI+YtzpjGXswGJ9NrrGYSBIvel3S7q6t59WEWQ=",
-=======
-  "Hash": "1442Bm/KjH4pecSO5Vf597a+hE7va40e1ri/V4FAzlo=",
->>>>>>> Stashed changes
+  "Hash": "d25IawpfQC4jj3t5IxuOeARgSKKnBkCRV9RoukfpIBo=",
   "Source": "BirdSalesWeb",
   "BasePath": "_content/BirdSalesWeb",
   "Mode": "Default",
@@ -2035,11 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-<<<<<<< Updated upstream
-      "Identity": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
+      "Identity": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\",
       "BasePath": "_content/BirdSalesWeb",
       "RelativePath": "ProjectFiles/Bird/index.js",
       "AssetKind": "All",
@@ -2055,10 +2050,7 @@
       "OriginalItemSpec": "wwwroot\\ProjectFiles\\Bird\\index.js"
     },
     {
-      "Identity": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
-=======
       "Identity": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
->>>>>>> Stashed changes
       "SourceId": "BirdSalesWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\",
