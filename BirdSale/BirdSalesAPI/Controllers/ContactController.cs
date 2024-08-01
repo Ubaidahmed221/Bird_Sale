@@ -26,7 +26,7 @@ namespace BirdSalesAPI.Controllers
         }
 
         [HttpPost("AddCategory")]
-        public async Task<string> AddCategory(ContactDTO contactDTO)
+        public async Task<string> AddContact(ContactDTO contactDTO)
         {
             return JsonConvert.SerializeObject(await Service.AddContact(contactDTO));
         }

@@ -1,787 +1,795 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BirdSalesWeb.bundle.scp.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BirdSalesWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\BirdSalesWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
       "PackagePath": "staticwebassets\\ProjectFiles\\Bird\\index.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Category\\Index.js",
       "PackagePath": "staticwebassets\\ProjectFiles\\Category\\Index.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Utilities\\ApiUrls.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Contact\\Create.js",
+      "PackagePath": "staticwebassets\\ProjectFiles\\Contact\\Create.js"
+    },
+    {
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Contact\\Index.js",
+      "PackagePath": "staticwebassets\\ProjectFiles\\Contact\\Index.js"
+    },
+    {
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Utilities\\ApiUrls.js",
       "PackagePath": "staticwebassets\\ProjectFiles\\Utilities\\ApiUrls.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\LineIcons.3.0.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\LineIcons.3.0.css",
       "PackagePath": "staticwebassets\\Website\\assets\\css\\LineIcons.3.0.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\bootstrap.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Website\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\glightbox.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\Website\\assets\\css\\glightbox.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\main.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\main.css",
       "PackagePath": "staticwebassets\\Website\\assets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\tiny-slider.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\css\\tiny-slider.css",
       "PackagePath": "staticwebassets\\Website\\assets\\css\\tiny-slider.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.eot",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.eot",
       "PackagePath": "staticwebassets\\Website\\assets\\fonts\\LineIcons.eot"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.svg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.svg",
       "PackagePath": "staticwebassets\\Website\\assets\\fonts\\LineIcons.svg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.ttf",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.ttf",
       "PackagePath": "staticwebassets\\Website\\assets\\fonts\\LineIcons.ttf"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.woff",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.woff",
       "PackagePath": "staticwebassets\\Website\\assets\\fonts\\LineIcons.woff"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.woff2",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\fonts\\LineIcons.woff2",
       "PackagePath": "staticwebassets\\Website\\assets\\fonts\\LineIcons.woff2"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\about\\about-img.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\about\\about-img.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\about\\about-img.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\about\\about1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\about\\about1.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\about\\about1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-1-bg.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-1-bg.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\banner\\banner-1-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-2-bg.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-2-bg.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\banner\\banner-2-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-3-bg.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner-3-bg.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\banner\\banner-3-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\banner\\banner.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\banner\\banner.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\blog-1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-2.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-2.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\blog-2.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-3.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-3.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\blog-3.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-1.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\blog-sidebar-1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-2.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-2.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\blog-sidebar-2.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-3.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-sidebar-3.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\blog-sidebar-3.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-single.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\blog-single.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\blog-single.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment1.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\comment1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment2.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment2.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\comment2.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment3.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\blog\\comment3.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\blog\\comment3.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\01.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\01.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\brands\\01.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\02.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\02.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\brands\\02.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\03.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\03.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\brands\\03.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\04.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\04.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\brands\\04.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\05.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\05.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\brands\\05.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\06.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\brands\\06.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\brands\\06.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\01.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\01.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\cart\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\02.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\02.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\cart\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\03.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\cart\\03.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\cart\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\error\\404-bg.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\error\\404-bg.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\error\\404-bg.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\favicon.svg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\favicon.svg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\favicon.svg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-1.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-1.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\featured-categories\\fetured-item-1.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-2.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-2.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\featured-categories\\fetured-item-2.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-3.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-3.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\featured-categories\\fetured-item-3.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-4.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-4.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\featured-categories\\fetured-item-4.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-5.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-5.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\featured-categories\\fetured-item-5.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-6.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\featured-categories\\fetured-item-6.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\featured-categories\\fetured-item-6.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\footer\\credit-cards-footer.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\footer\\credit-cards-footer.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\footer\\credit-cards-footer.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\header\\cart-items\\item1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\header\\cart-items\\item1.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\header\\cart-items\\item1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\header\\cart-items\\item2.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\header\\cart-items\\item2.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\header\\cart-items\\item2.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bg1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bg1.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\hero\\slider-bg1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bg2.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bg2.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\hero\\slider-bg2.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bnr.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\slider-bnr.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\hero\\slider-bnr.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\small-banner-bg.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\hero\\small-banner-bg.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\hero\\small-banner-bg.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\01.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\01.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\02.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\02.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\03.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\03.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\04.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\04.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\05.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\05.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\05.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\06.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\06.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\06.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\07.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\07.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\07.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\08.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\08.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\08.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\09.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\home-product-list\\09.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\home-product-list\\09.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\logo\\logo.svg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\logo\\logo.svg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\logo\\logo.svg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\logo\\white-logo.svg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\logo\\white-logo.svg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\logo\\white-logo.svg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\offer\\offer-image.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\offer\\offer-image.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\offer\\offer-image.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\payment\\card.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\payment\\card.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\payment\\card.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\01.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\01.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\product-details\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\02.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\02.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\product-details\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\03.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\03.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\product-details\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\04.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\04.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\product-details\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\05.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\product-details\\05.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\product-details\\05.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-1.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\products\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-2.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-2.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\products\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-3.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-3.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\products\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-4.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-4.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\products\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-5.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-5.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\products\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-6.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-6.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\products\\product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-7.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-7.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\products\\product-7.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-8.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\products\\product-8.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\products\\product-8.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-1.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-1.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\shipping\\shipping-1.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-2.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-2.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\shipping\\shipping-2.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-3.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-3.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\shipping\\shipping-3.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-4.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\shipping\\shipping-4.png",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\shipping\\shipping-4.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\01.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\01.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\team\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\02.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\02.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\team\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\03.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\03.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\team\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\04.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\images\\team\\04.jpg",
       "PackagePath": "staticwebassets\\Website\\assets\\images\\team\\04.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\bootstrap.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Website\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\glightbox.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\Website\\assets\\js\\glightbox.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\main.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\Website\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\tiny-slider.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\Website\\assets\\js\\tiny-slider.js",
       "PackagePath": "staticwebassets\\Website\\assets\\js\\tiny-slider.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\layers-2x.html",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\layers-2x.html",
       "PackagePath": "staticwebassets\\assets\\css\\images\\layers-2x.html"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\layers.html",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\layers.html",
       "PackagePath": "staticwebassets\\assets\\css\\images\\layers.html"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\marker-icon.html",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\images\\marker-icon.html",
       "PackagePath": "staticwebassets\\assets\\css\\images\\marker-icon.html"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\nucleo-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\nucleo-svg.css",
       "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\soft-ui-dashboard.min9f1e.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\css\\soft-ui-dashboard.min9f1e.css",
       "PackagePath": "staticwebassets\\assets\\css\\soft-ui-dashboard.min9f1e.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\apple-icon.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\apple-icon.png",
       "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\bg-smart-home-1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\bg-smart-home-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg-smart-home-1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\bg-smart-home-2.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\bg-smart-home-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\bg-smart-home-2.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved10.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\curved-images\\white-curved.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\curved-images\\white-curved.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\favicon.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\home-decor-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\BR.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\DE.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\GB.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\US.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\icons\\flags\\US.png",
       "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\US.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\ivancik.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\ivancik.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\logo-ct-dark.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\mercedes-eqc.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\mercedes-eqc.png",
       "PackagePath": "staticwebassets\\assets\\img\\mercedes-eqc.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
       "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-1.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-2.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-3.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-4.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\img\\vr-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\core\\popper.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\choices.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\choices.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\choices.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\countup.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\countup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\countup.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\dragula\\dragula.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\dragula\\dragula.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\dragula\\dragula.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\fullcalendar.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\fullcalendar.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\fullcalendar.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\jkanban\\jkanban.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\jkanban\\jkanban.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\jkanban\\jkanban.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\leaflet.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\leaflet.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\leaflet.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\nouislider.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\nouislider.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\nouislider.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\orbit-controls.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\orbit-controls.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\orbit-controls.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\round-slider.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\round-slider.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\round-slider.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\threejs.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\plugins\\threejs.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\threejs.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\soft-ui-dashboard.min9f1e.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\assets\\js\\soft-ui-dashboard.min9f1e.js",
       "PackagePath": "staticwebassets\\assets\\js\\soft-ui-dashboard.min9f1e.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\css\\site.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\favicon.ico",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\js\\site.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\mustafa\\Documents\\GitHub\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

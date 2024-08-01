@@ -1,12 +1,14 @@
 ﻿
-$("#SubmitCategory").on('click', function () {
+$("#SubmitContact").on('click', function () {
     var obj = JSON.stringify({
-        Name:$('#categoryName').val(),
-        Description:$('#categoryDescription').val(),
+        Name: $('#ContactName').val(),
+        Email: $('#ContactEmail').val(),
+        Number: $('#Contactnumber').val(),
+        City: $('#city').val(),
     })
     console.log(obj);
     $.ajax({
-        url: 'http://localhost:5154/Api/Category/AddCategory',
+        url: 'http://localhost:5154/Api/Contact/AddCategory',
         type: 'POST',
         data: obj,
         contentType: 'application/json;',

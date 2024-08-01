@@ -1,0 +1,67 @@
+﻿<div class="row">
+    <div class="col-md-6 p-2">
+        <button class="btn bg-gradient-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Add-New</button>
+    </div>
+    <div class="col-md-6 p-2 d-flex justify-content-end">
+        <button class="btn bg-gradient-info me-2">PDF</button>
+        <button class="btn bg-gradient-success me-2">Copy</button>
+        <button class="btn bg-gradient-secondary">Print</button>
+    </div>
+</div>
+<div class="card text-center">
+    <div class="table-responsive">
+        <table class="table align-items-center mb-0" id="MyTable">
+            <thead>
+                <tr>
+                    <th class="text-uppercase text-secondary text-sm font-weight-bolder opacity-7">ID</th>
+                    <th class="text-uppercase text-secondary text-sm font-weight-bolder opacity-7">Name</th>
+                    <th class="text-uppercase text-secondary text-sm font-weight-bolder opacity-7">Email</th>
+                    <th class="text-uppercase text-secondary text-sm font-weight-bolder opacity-7">Number</th>
+                    <th class="text-uppercase text-secondary text-sm font-weight-bolder opacity-7">City</th>
+                    <th class="text-uppercase text-secondary text-sm font-weight-bolder opacity-7">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+@* Add MOdel Code Start *@
+<!-- Button trigger modal -->
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Insert Contact</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                 <partial name="Add" /> 
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn bg-gradient-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+
+
+
+
+@* Add MOdel Code End *@
+
+@section ScriptSection {
+
+    <script src="~/ProjectFiles/Contact/Index.js"></script>
+    <script src="~/ProjectFiles/Contact/Create.js"></script>
+};
