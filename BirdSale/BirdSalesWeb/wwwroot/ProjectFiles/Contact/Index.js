@@ -12,10 +12,11 @@ function LoadData() {
 
         success: function (response) {
             var data = JSON.parse(response);
+            console.log(data);
             for (var item of data.Response) {
                 $('#MyTable tbody').append(`
                     <tr>
-                    <td>${item.pkId}</td>
+                    <td>${item.id}</td>
                     <td>${item.name}</td>
                     <td>${item.email}</td>
                     <td>${item.phone}</td>

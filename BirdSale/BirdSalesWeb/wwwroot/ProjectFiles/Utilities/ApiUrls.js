@@ -8,7 +8,7 @@ let ApiUrls = {
 
     //Contact
     Contact_GetContact: main_api + '/Contact/GetContact',
-    Contact_AddContact: main_api + '/Contact/AddCategory',
+    Contact_AddContact: main_api + '/Contact/AddContact',
 
 
 
