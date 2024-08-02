@@ -47,6 +47,8 @@ $("body").on("click", ".BtnDelete", function () {
         data: id,
         Success: function () {
             console.log("seccess");
+            // Reload the page after successful deletion
+            location.reload(true); // true parameter forces reload from server, not cache
         },
         Error: function () {
             console.log("Error");

@@ -14,7 +14,9 @@ $("#SubmitContact").on('click', function () {
         contentType: 'application/json;',
         success: function () {
             console.log("Successfully Inserted");
-            LoadData();
+          
+            // Reload the page after successful insert
+            window.location.reload(); // true parameter forces reload from server, not cache
         },
         Error: function (err) {
             //window.location.reload();
