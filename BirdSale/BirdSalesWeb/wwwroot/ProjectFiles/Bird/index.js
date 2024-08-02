@@ -1,6 +1,9 @@
 ﻿$(document).ready(function () {
-    LoadData()
+    LoadData();
 });
+
+
+
 
 function LoadData() {
     $.ajax({
@@ -20,7 +23,8 @@ function LoadData() {
                 <td>${item.Price}</td>
                 <td>${item.Description}</td>
                 <td>${item.ImageURL}</td>
-                
+                <td>${item.FKCategoryId}</td>
+             
                 </tr>
                 `);
             }

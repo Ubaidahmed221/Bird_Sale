@@ -14,4 +14,5 @@ let ApiUrls = {
 
 
     Bird_GetBird: main_api + '/Bird/GetBird',
+    Bird_AddBird: main_api + '/Bird/AddBird',
 }

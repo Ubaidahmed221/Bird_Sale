@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Bird_Sale\BirdSale\BirdSalesWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Bird/AddBird.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlyZFxBZGRCaXJkLmNzaHRtbA==
+[D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Bird/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlyZFxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Bird_Sale/BirdSale/BirdSalesWeb/Views/Bird/Index.cshtml]

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BirdSalesWeb.bundle.scp.css"
     },
     {
+      "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\Create.js",
+      "PackagePath": "staticwebassets\\ProjectFiles\\Bird\\Create.js"
+    },
+    {
       "Id": "D:\\Bird_Sale\\BirdSale\\BirdSalesWeb\\wwwroot\\ProjectFiles\\Bird\\index.js",
       "PackagePath": "staticwebassets\\ProjectFiles\\Bird\\index.js"
     },
