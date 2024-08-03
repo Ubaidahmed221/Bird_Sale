@@ -7,11 +7,12 @@ $("#SubmitBird").on('click', function () {
         Price: $('#Price').val(),
         Description: $('#Description').val(),
         Image: $('#Image').val(),
+        Category: $('#Category').val(),
        
     })
     console.log(obj);
     $.ajax({
-        url: ApiUrls.Bird_AddBird,
+        url: 'http://localhost:5154/api/Bird/AddBird',
         type: 'POST',
         data: obj,
         contentType: 'application/json;',
@@ -27,7 +28,4 @@ $("#SubmitBird").on('click', function () {
             console.log("error");
         }
     });
-
-
-
 });
