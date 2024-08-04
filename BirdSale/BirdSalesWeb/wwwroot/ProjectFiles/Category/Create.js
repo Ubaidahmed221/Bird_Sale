@@ -5,7 +5,7 @@
     });
     console.log(obj);
     $.ajax({
-        url: 'http://localhost:5154/Api/Category/AddCategory',
+        url: 'http://localhost:5154/api/Bird/AddBird',
         type: 'POST',
         data: obj,
         contentType: 'application/json',
